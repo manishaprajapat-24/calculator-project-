@@ -52,8 +52,7 @@ body{
 }
 .operator{
     color: rgb(18, 224, 197);
-
 }
-.buttons :hover{
+.buttons:hover {
     color: rgb(239, 28, 28);
 }
