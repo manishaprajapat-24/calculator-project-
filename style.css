@@ -21,7 +21,7 @@ body{
     background: #ffff;
     box-shadow: 0 5px 10px rgb(0 0 0 / 5%);
   }
- .display{
+.display{
     height: 80px;
     width: 100%;
     outline: none;
