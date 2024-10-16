@@ -12,7 +12,6 @@ body{
     justify-content: center;
     background: #e0e3eb;
 }
-
 .container {
     position: relative;
     max-width: 300px;
@@ -37,8 +36,6 @@ body{
     grid-gap: 10px;
     grid-template-columns: repeat(4, 1fr);
 }
-
-
 .buttons button {
     padding: 10px;
     border-radius: 6px;
@@ -50,8 +47,8 @@ body{
 .buttons button:active {
     transform: scale(0.99);
 }
-.operator{
-    color: rgb(18, 224, 197);
+.operator {
+    color: rgb(18 224 197);  
 }
 .buttons:hover {
     color: rgb(239, 28, 28);
