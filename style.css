@@ -47,8 +47,12 @@ body{
 .buttons button:active {
     transform: scale(0.99);
 }
+.transform {
+    transform: scale(0.99);
+}
+
 .operator {
-    color: rgb(18 224 197);  
+    color: rgb(18, 224, 197);
 }
 .buttons:hover {
     color: rgb(239, 28, 28);
