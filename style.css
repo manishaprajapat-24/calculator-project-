@@ -44,9 +44,6 @@ body{
     cursor: pointer;
     background-color: #eee;
 }
-.transform {
-    transform: scale(0.99);
-}
 
 .operator {
     color: rgb(18, 224, 197);
